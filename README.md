@@ -31,7 +31,7 @@ Receiver specifications:
 
 Using the formulas above, calculate the receiver sensitivity.
 
-<img width="999" height="1220" alt="image" src="https://github.com/user-attachments/assets/20933481-a2dc-496a-9062-b4621b42021d" />
+<img width="1111" height="1416" alt="image" src="https://github.com/user-attachments/assets/1430443c-f4a7-4d0c-b6e0-4d5db76f5278" />
 
 
 
